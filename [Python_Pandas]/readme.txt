@@ -1,0 +1,1 @@
+Wszystkie pliki z danymi zostaly przeniesione do .\temp. W programach nale¿y podmienic sciezki
